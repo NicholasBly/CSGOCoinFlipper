@@ -1,0 +1,9 @@
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\bin\Debug\CSGOCoinFlipper.exe.config
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\bin\Debug\CSGOCoinFlipper.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\bin\Debug\CSGOCoinFlipper.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\obj\Debug\CSGOCoinFlipper.csprojResolveAssemblyReference.cache
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\obj\Debug\CSGOCoinFlipper.Form1.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\obj\Debug\CSGOCoinFlipper.Properties.Resources.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\obj\Debug\CSGOCoinFlipper.csproj.GenerateResource.Cache
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\obj\Debug\CSGOCoinFlipper.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\CSGOCoinFlipper\CSGOCoinFlipper\obj\Debug\CSGOCoinFlipper.pdb
